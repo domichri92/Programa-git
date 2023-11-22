@@ -1,0 +1,115 @@
+* {
+  padding: auto;
+  margin: auto;
+  box-sizing: border-box;
+}
+
+body{
+    background: aqua;
+ }
+
+ .nav{
+  background: rgb(255, 255, 255);
+  width:50%;
+  height: 20px;
+}
+
+ .header{
+    width:50%;
+    height: 170px;
+    border: 3px solid rgb(28, 249, 91);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main{
+    background: rgb(255, 0, 0);
+    background-image:url("fondoco.JPG");
+    background-size:auto;
+    background-repeat: no-repeat;
+    width:50%;
+    height: 280px;
+    align-items: center;
+  }
+
+
+.label { 
+    padding: 1%;
+    display: inline-block;
+    color: azure;
+}
+
+.pass{
+    color: azure;
+}
+
+.clasea{    
+    padding-top:15%;
+    display: flex;
+}
+
+.claseb{
+    display: flex;
+}
+  
+.footer{
+    background: rgb(0, 107, 9);
+    background-image:url("fondoco.JPG");
+    background-size:auto;
+    background-repeat: no-repeat;
+    width:50%;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+.registro{
+    background: rgb(0, 107, 9);
+    background-image:url("fondoco.JPG");
+    background-size:auto;
+    background-repeat: no-repeat;
+    width:50%;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+.botonin1{
+    background-color: rgb(247, 247, 247);
+    border: 0px;
+    padding: 10px;
+    color: black;
+    margin-right: 30px;
+}
+
+.main1{
+  background: rgb(255, 0, 0);
+  background-image:url("fondoco.jpg");
+  background-size:auto;
+  background-repeat: no-repeat;
+  width:50%;
+  height: 280px;
+  align-items: center;
+}
+
+.clasec{    
+  padding-top:10%;
+  display: flex;
+}
+
+.clased{
+  display: flex;
+}
+
+.botoning{
+  background-color: rgb(194, 186, 186);
+  border: 0px;
+  padding: 0px;
+  color: black;
+  display: block;
+  font-size: large;
+}
+
+
